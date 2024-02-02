@@ -1,0 +1,2 @@
+models(code)=>collection(db)-they are the khand(parts of data), user ka khand(collection), admin ka khand(collection)
+schema(code)=>documents(db)
